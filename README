@@ -1,0 +1,24 @@
+  # Online_Retail_Backend
+
+  ## Description 
+  A backend server for an online retail company
+
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Questions](#questions)
+  
+  ## Installation
+  ~~~
+  npm i
+  ~~~
+  ## Usage
+  
+  User shoud be familiar with Node.js, Sequelize, Express.js, Insomnia or another route testing software 
+  
+  Walkthrough video here: 
+  
+
+  ## Questions
+
+  Contact me at madalyne@madalynecross.com with any questions. View more of my work here: [violanerd](https://github.com/violanerd).
