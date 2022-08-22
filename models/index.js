@@ -23,7 +23,7 @@ Tag.belongsToMany(Product, {
   foreignKey: 'tag_id'
 })
 
-// added to get tags to work
+// added to get tags to work but don't actually need it
 // ProductTag.belongsTo(Product, {
 //   foreignKey: 'product_id'
 // })
