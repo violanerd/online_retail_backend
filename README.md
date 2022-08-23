@@ -16,7 +16,7 @@
   
   User shoud be familiar with Node.js, Sequelize, Express.js, Insomnia or another route testing software 
   
-  Walkthrough video here: 
+  Walkthrough video here: https://watch.screencastify.com/v/dKaIFv9f7GFNLrNiK1U2
   
 
   ## Questions
