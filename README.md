@@ -11,6 +11,9 @@
   ## Installation
   ~~~
   npm i
+  mysql> source db/schema.sql;
+  npm start 
+  npm run seed
   ~~~
   ## Usage
   
